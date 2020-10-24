@@ -1,2 +1,7 @@
 ss
+<<<<<<< HEAD
+nw from learngit
+=======
 new a line from testgit
+>>>>>>> 6d654968a80959c19ecced1c0f837d6a495343ee
+test
